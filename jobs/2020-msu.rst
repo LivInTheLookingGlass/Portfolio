@@ -1,0 +1,15 @@
+Teaching and Research Assistant
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| Michigan State University
+| East Lansing, MI, USA
+| January 2020 - February 2023
+
+Job duties included:
+
+- Helping teach classes
+- Tutoring students in office hours
+- Grading many exams and computer programs
+- Writing both code and papers for Distributed Systems research
+
+.. tags:: Research, Education, SQL, SQLite, Distributed Systems, Networking, Simulation, Software Testing, Paper Writing, Python, Python3, CPlusPlus, C

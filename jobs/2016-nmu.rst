@@ -1,0 +1,14 @@
+Help Desk Specialist
+~~~~~~~~~~~~~~~~~~~~
+
+| Northern Michigan University
+| Marquette, MI, USA
+| September 2016 - May 2017
+
+Job duties included:
+
+- Helping fix errors on university-issued machines
+- Working with support customers, both in person and on the phone
+- Coordinating with Micro-Repair, which handled hardware problems
+
+.. tags:: Debug, Windows, Linux, Tech Support, Information Technology, Customer Service

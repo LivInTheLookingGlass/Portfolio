@@ -1,0 +1,17 @@
+Data Science Fellow
+~~~~~~~~~~~~~~~~~~~
+
+| TMW Center for Early Learning + Public Health
+| University of Chicago
+| Chicago, IL, USA
+| May 2024 - Present
+
+Job duties included:
+
+- Coordinating developers on the SPEAK-CAT project
+- Writing tests for quality assurance of the front- and back-end
+- Writing code in C#, TypeScript, and JavaScript
+- Raising backend code (~19k lines) coverage from 25+ percentage points
+- Find root cause of bugs for the Luet Device
+
+.. tags:: Python, Python3, CSharp, JavaScript, Software Testing
