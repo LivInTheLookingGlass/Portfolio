@@ -1,5 +1,5 @@
 Undergrad -- Northern Michigan University
-=========================================
++++++++++++++++++++++++++++++++++++++++++
 
 | graduated
 | September 2013 - December 2018 (Magna cum laude)

@@ -1,5 +1,5 @@
 CS 222 Program 2
-################
+~~~~~~~~~~~~~~~~
 
 `Source code <https://github.com/LivInTheLookingGlass/CS222-PG2>`__
 

@@ -1,5 +1,5 @@
 Achieving Causality with Physical Clocks
-########################################
+++++++++++++++++++++++++++++++++++++++++
 
 `arXiv link <https://arxiv.org/abs/2104.15099>`__
 

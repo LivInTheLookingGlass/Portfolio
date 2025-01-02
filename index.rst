@@ -1,5 +1,5 @@
 Welcome to Olivia's Portfolio!
-==============================
+##############################
 
 .. include:: about.rst
 
@@ -19,6 +19,10 @@ Welcome to Olivia's Portfolio!
     :maxdepth: 1
 
     _tags/tagsindex
+
+.. raw:: html
+
+    <br>
 
 .. include:: education.rst
 

@@ -1,5 +1,5 @@
 High School -- Marquette Senior High School
-===========================================
++++++++++++++++++++++++++++++++++++++++++++
 
 | graduated
 | September 2011 - May 2015 (with Distinction)

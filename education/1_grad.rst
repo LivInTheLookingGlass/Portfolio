@@ -1,5 +1,5 @@
 Graduate School -- Michigan State University
-============================================
+++++++++++++++++++++++++++++++++++++++++++++
 
 | Graduated
 | East Lansing, MI, USA

@@ -1,8 +1,8 @@
 Major Works
-+++++++++++
+===========
 
 Projects
-~~~~~~~~
+++++++++
 
 .. include:: work/major/euler.rst
 
@@ -19,7 +19,7 @@ Projects
 .. include:: work/major/iss-tracking-pointer.rst
 
 Papers
-~~~~~~
+======
 
 .. include:: papers/physical-clocks.rst
 
@@ -30,10 +30,10 @@ Papers
 .. include:: papers/thue-morse.rst
 
 Minor Works
-+++++++++++
+===========
 
 Projects
-~~~~~~~~
+++++++++
 
 .. include:: work/minor/cpython.rst
 
@@ -58,10 +58,10 @@ Projects
 .. include:: work/minor/custom-inherit.rst
 
 School Works
-++++++++++++
+============
 
 Projects
-~~~~~~~~
+++++++++
 
 .. include:: work/school/cmse-822-final-project.rst
 

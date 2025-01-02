@@ -1,5 +1,5 @@
 CS 426 Shell
-############
+~~~~~~~~~~~~
 
 `Source code <https://github.com/LivInTheLookingGlass/CS426-Shell>`__
 
