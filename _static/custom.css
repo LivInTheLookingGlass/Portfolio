@@ -1,3 +1,11 @@
 .rst-content .toctree-wrapper:not(:last-child) ul {
    margin-bottom: 0;
 }
+
+.rst-content .toctree-wrapper ul li a {
+   margin-bottom: 0;
+}
+
+.rst-content .toctree-wrapper ul li ul {
+   margin-top: 0;
+}

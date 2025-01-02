@@ -1,7 +1,9 @@
-Welcome to Portfolio's documentation!
-=====================================
+Welcome to Olivia's Portfolio!
+==============================
 
 .. include:: about.rst
+
+.. include:: linktree.rst
 
 .. toctree::
     :maxdepth: 3
