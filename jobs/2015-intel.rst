@@ -13,4 +13,4 @@ Job duties included:
 - building computer systems
 - doing emergency support work on-site
 
-.. tags:: SATA, NVMe, Python, CPlusPlus, C, Python, Firmware, Emulation, Hardware Emulation, Software Testing, Communication Protocol, Caching, Caching Strategies
+.. tags:: SATA, NVMe, Python, Python2, CPlusPlus, C, Firmware, Emulation, Hardware Emulation, Software Testing, Communication Protocol, Caching, Caching Strategies
