@@ -1,0 +1,6 @@
+CS 222 Program 1
+################
+
+`Source code <https://github.com/LivInTheLookingGlass/CS222-PG1>`__
+
+.. tags:: CPlusPlus, Mathematics, School Project

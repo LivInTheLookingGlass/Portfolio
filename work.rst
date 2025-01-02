@@ -62,3 +62,29 @@ School Works
 
 Projects
 ~~~~~~~~
+
+.. include:: work/cmse-822-final-project.rst
+
+.. include:: work/cmse-812-project.rst
+
+.. include:: work/cs426-shell.rst
+
+.. include:: work/cs201-pg1.rst
+
+.. include:: work/cs201-pg2.rst
+
+.. include:: work/cs201-pg3.rst
+
+.. include:: work/cs201-pg4.rst
+
+.. include:: work/cs201-pg5.rst
+
+.. include:: work/cs201-pg6.rst
+
+.. include:: work/cs222-pg1.rst
+
+.. include:: work/cs222-pg2.rst
+
+.. include:: work/cs222-pg3.rst
+
+.. include:: work/tree.rst
