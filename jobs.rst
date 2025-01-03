@@ -19,8 +19,3 @@ Intel (Non-Volatile Memory Solutions Group)
 .. include:: jobs/2018-intel.rst
 
 .. include:: jobs/2015-intel.rst
-
-Marquette Senior High School Robotics Team
-++++++++++++++++++++++++++++++++++++++++++
-
-.. include:: jobs/2013-mshs.rst
