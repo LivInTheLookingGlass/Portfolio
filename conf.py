@@ -1,3 +1,9 @@
+from pathlib import Path
+from shutil import copy
+from typing import Optional
+
+from sphinx.application import Sphinx
+
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -41,3 +47,18 @@ html_css_files = [
 
 tags_create_tags = True
 tags_page_title = 'Tags'
+
+# -- Options extend the bulid process ----------------------------------------
+# https://www.sphinx-doc.org/en/master/development/tutorials/extending_build.html
+
+
+def build_finished(app: Sphinx, exception: Optional[Exception]):
+    if app.builder.name == 'html':
+        source = Path(__file__).parent.joinpath('webfinger')
+        dest_path = Path(app.outdir, '.well-known', 'webfinger')
+        dest_path.parent.mkdir(parents=True, exist_ok=True)
+        copy(source, dest_path)
+
+
+def setup(app):
+    app.connect('build-finished', build_finished)

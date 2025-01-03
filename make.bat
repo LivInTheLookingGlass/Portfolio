@@ -24,8 +24,16 @@ if errorlevel 9009 (
 )
 
 if "%1" == "" goto help
+if "%1" == "clean" goto clean
 
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
+goto end
+
+:clean
+del /s /q _build
+rmdir _build
+del /s /q _tags
+rmdir _tags
 goto end
 
 :help
