@@ -18,14 +18,6 @@ Intel (Non-Volatile Memory Solutions Group)
 
 .. include:: jobs/2018-intel.rst
 
-Northern Michigan University
-++++++++++++++++++++++++++++
-
-.. include:: jobs/2016-nmu.rst
-
-Intel (Non-Volatile Memory Solutions Group)
-+++++++++++++++++++++++++++++++++++++++++++
-
 .. include:: jobs/2015-intel.rst
 
 Marquette Senior High School Robotics Team
