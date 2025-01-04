@@ -1,4 +1,4 @@
-name: GitHub to GitLab
+name: Mirror Repository
 
 on:
   push:
@@ -7,7 +7,8 @@ on:
     - cron: "0 2 * * 3"
 
 jobs:
-  mirror:
+  gitlab:
+    name: GitHub to GitLab
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,13 +17,6 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: "3.10"
-
-      # - name: Unprotect branches
-      #   run: |
-      #     python -V
-      #     pip -V
-      #     pip install requests
-      #     python unprotect_branches.py k8scat ${{ secrets.DEST_TOKEN_GITLAB }}
 
       - name: Login Source GitHub
         run: |
