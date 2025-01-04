@@ -14,12 +14,15 @@ jobs:
 
       # https://github.com/actions/setup-python
       - uses: actions/setup-python@v4
-      - name: Unprotect branches
-        run: |
-          python -V
-          pip -V
-          pip install requests
-          python unprotect_branches.py k8scat ${{ secrets.DEST_TOKEN_GITLAB }}
+        with:
+          python-version: "3.10"
+
+      # - name: Unprotect branches
+      #   run: |
+      #     python -V
+      #     pip -V
+      #     pip install requests
+      #     python unprotect_branches.py k8scat ${{ secrets.DEST_TOKEN_GITLAB }}
 
       - name: Login Source GitHub
         run: |
@@ -38,11 +41,11 @@ jobs:
         with:
           source_protocol: https
           source_host: github.com
-          source_username: k8scat
+          source_username: LivInTheLookingGlass
           source_token: ${{ secrets.GITHUB_TOKEN }}
           dest_protocol: https
           dest_host: gitlab.com
-          dest_username: k8scat
+          dest_username: LivInTheLookingGlass
           dest_token: ${{ secrets.DEST_TOKEN_GITLAB }}
           mirror_repos: ${{ steps.list_repos.outputs.repo_list }}
           notify_prefix: "GitHub to GitLab"
