@@ -3,7 +3,11 @@ Welcome to Olivia's Portfolio!
 
 .. include:: about.rst
 
+------------
+
 .. include:: linktree.rst
+
+------------
 
 .. toctree::
     :maxdepth: 3
@@ -18,14 +22,5 @@ Welcome to Olivia's Portfolio!
 .. toctree::
     :maxdepth: 1
 
+    everything
     _tags/tagsindex
-
-.. raw:: html
-
-    <br>
-
-.. include:: education.rst
-
-.. include:: jobs.rst
-
-.. include:: work.rst
