@@ -46,6 +46,7 @@ html_static_path = ['_static']
 html_css_files = [
     'custom.css',
 ]
+html_favicon = 'favicon.png'
 
 # -- Options for sphinx-tags extension ---------------------------------------
 # https://sphinx-tags.readthedocs.io/en/latest/configuration.html
