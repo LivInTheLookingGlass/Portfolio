@@ -12,6 +12,6 @@ Job duties included:
 - Find root cause of bugs for the Luet Device and companion app
 - Writing tests for quality assurance of the front- and back-end
 - Writing code in C#, TypeScript, JavaScript, and Python
-- Raising backend code (~19k lines) coverage from 25+ percentage points
+- Raising backend code (~19k lines) coverage by 25+ percentage points
 
-.. tags:: Python, Python3, CSharp, JavaScript, Software Testing, Django
+.. tags:: Python, Python3, CSharp, JavaScript, Software Testing, Django, Cypress

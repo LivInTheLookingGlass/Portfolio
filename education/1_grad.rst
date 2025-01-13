@@ -3,7 +3,7 @@ Graduate School -- Michigan State University
 
 | Graduated with Master's in Computer Science and Engineering
 | East Lansing, MI, USA
-| January 2019 - December 2022
+| January 2020 - December 2022
 
 - Focus in Distribued Systems
 - 3.85 GPA

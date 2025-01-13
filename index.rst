@@ -20,6 +20,7 @@ Olivia Appleton-Crocker's Portfolio
 
     about
     linktree
+    pdfs
     education
     jobs
     work
