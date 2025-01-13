@@ -10,7 +10,7 @@ Olivia Appleton-Crocker's Portfolio
 ------------
 
 .. toctree::
-    :caption: Contents:
+    :caption: Contents
     :maxdepth: 1
 
     everything
