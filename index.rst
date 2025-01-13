@@ -1,5 +1,5 @@
-Welcome to Olivia's Portfolio!
-##############################
+Olivia Appleton-Crocker's Portfolio
+###################################
 
 .. include:: about.rst
 
