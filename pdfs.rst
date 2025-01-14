@@ -29,8 +29,8 @@ PDF Resumes / Cover Letters
 There are __ versions of my resume/CV on this site. Please select the version that is most applicable to your company's specialties. If you want a general overview, select "Software Engineering".
 
 +----------------------------------+-----------------------+-----------+
-|                                  |        Resume         |           |
-|            Category              +-----------+-----------+    CVs    |
+|                                  |      **Resume**       |           |
+|          **Category**            +-----------+-----------+  **CVs**  |
 |                                  | One Page  | Two Page  |           |
 +----------------------------------+-----------+-----------+-----------+
 | Python Developer                 | |PD_r1|   | |PD_r2|   | |PD_cv|   |
