@@ -1,6 +1,10 @@
 PDF Resumes / Cover Letters
 ===========================
 
+.. note::
+
+    This page is a work in progress. Many of the links do not yet work. Please check back later.
+
 .. |PD_r1| replace:: `PDF </_static/resumes/python_1.pdf>`__
 .. |PD_r2| replace:: `PDF </_static/resumes/python_2.pdf>`__
 .. |PD_cv| replace:: `PDF </_static/resumes/python_cv.pdf>`__
@@ -49,7 +53,3 @@ There are __ versions of my resume/CV on this site. Please select the version th
 +----------------------------------+-----------+-----------+-----------+
 | Technical Writing                | |TW_r1|   | |TW_r2|   | |TW_cv|   |
 +----------------------------------+-----------+-----------+-----------+
-
-.. note::
-
-    This page is a work in progress. Many of the links do not yet work. Please check back later.
