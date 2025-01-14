@@ -30,7 +30,9 @@ PDF Resumes / Cover Letters
 .. |TW_r2| replace:: `PDF </_static/resumes/technical_writing_2.pdf>`__
 .. |TW_cv| replace:: `PDF </_static/resumes/technical_writing_cv.pdf>`__
 
-There are __ versions of my resume/CV on this site. Please select the version that is most applicable to your company's specialties. If you want a general overview, select "Software Engineering".
+There are 24 versions of my resume/CV on this site. Each resume comes in a 1 page and 2 page variant.
+Please select the version that is most applicable to your company's specialties. If you want a
+general overview, select "Software Engineering".
 
 +----------------------------------+-----------------------+-----------+
 |                                  |      **Resume**       |           |

@@ -79,7 +79,7 @@ parsep=0.10 cm, partopsep=0pt, itemsep=0pt, leftmargin=10pt ] }{ \end{itemize} }
 }{ \end{adjustwidth} } % new environment for one column entries
 
 \newenvironment{twocolentry}[2][]{ \onecolentry \def\secondColumn{#2} \setcolumnwidth{\fill, 4.5 cm}
-\begin{paracol}{2} }{ \switchcolumn \raggedleft \secondColumn \end{paracol}
+\begin{paracol}{2} }{ \switchcolumn \raggedleft \secondColumn  \end{paracol}
 \endonecolentry } % new environment for two column entries
 
 \newenvironment{threecolentry}[3][]{ \onecolentry \def\thirdColumn{#3} \setcolumnwidth{, \fill, 4.5 cm}
@@ -135,15 +135,15 @@ parsep=0.10 cm, partopsep=0pt, itemsep=0pt, leftmargin=10pt ] }{ \end{itemize} }
 	\section{Education}
 
 	\begin{twocolentry}
-		{ Jan. 2019 - Dec. 2022 } \textbf{Michigan State University}, Master's in Computer
+		{ Jan. 2020 - Dec. 2022 } \textbf{Michigan State University}, Master's in Computer
 		Science \& Engineering
 	\end{twocolentry}
 
 	\vspace{0.10 cm}
 	\begin{onecolentry}
 		\begin{highlights}
-			\item GPA: 3.85/4.0 \item \textbf{Coursework:} Discrete Logic, Distributed
-			Systems, Foundations of Computing, Machine Learning
+			\item GPA: 3.85/4.0 \item {\textbf{Coursework:} Discrete Logic, Distributed Systems, Foundations of Computing, Machine Learning,\\
+			Algorithmic Graph Theory, Parallel Computing}
 		\end{highlights}
 	\end{onecolentry}
 
@@ -157,8 +157,8 @@ parsep=0.10 cm, partopsep=0pt, itemsep=0pt, leftmargin=10pt ] }{ \end{itemize} }
 	\vspace{0.10 cm}
 	\begin{onecolentry}
 		\begin{highlights}
-			\item GPA: 3.84/4.0 (Magna cum laude) \item \textbf{Coursework:} Data Structures,
-			Microcomputer Architecture, Networking, Object-Oriented Design, Operating Systems,
-			Principles of Programming Languages
+			\item GPA: 3.84/4.0 (Magna cum laude)
+			\item \textbf{Coursework:} {Data Structures, Microcomputer Architecture, Networking, Object-Oriented Design, \\
+			Operating Systems, Principles of Programming Languages, Algorithm Design \& Analysis}
 		\end{highlights}
 	\end{onecolentry}
