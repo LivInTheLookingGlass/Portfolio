@@ -1,7 +1,7 @@
 PDF Resumes / Cover Letters
 ===========================
 
-.. note::
+.. warning::
 
     This page is a work in progress. Many of the links do not yet work. Please check back later.
 

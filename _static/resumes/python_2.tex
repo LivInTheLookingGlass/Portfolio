@@ -1,4 +1,6 @@
-\input{header.tex}
+\input{header_2.tex}
+
+	\vspace{0.6 cm}
 
 	\section{Experience}
 
@@ -52,6 +54,8 @@
 		\end{highlights}
 	\end{onecolentry}
 
+	\vspace{0.6 cm}
+
 	\section{Publications}
 
 	\begin{samepage}
@@ -101,7 +105,6 @@
 		\footnotesize (More on next page) \normalsize
 	\end{center}
 
-	\vspace{0.2 cm}
 	\newpage
 
 	\section{Projects}
@@ -113,8 +116,8 @@
 	
 		\begin{onecolentry}
 			\begin{highlights}
-				\item Added support for the UDPLite network protocol \item Tools Used: C, Python,
-				Sphinx
+				\item Added support for the UDPLite network protocol
+				\item Tools Used: C, Python, Sphinx, UnitTest
 			\end{highlights}
 		\end{onecolentry}
 	\end{samepage}
@@ -146,6 +149,7 @@
 		\begin{onecolentry}
 			\begin{highlights}
 				\item A transpiler that turns Python code into OpenStreetMap's OverpassQL query language
+				\item This is useful because OverpassQL is often difficult to read
 				\item Tools Used: Makefile, OpenStreetMap, OverpassQL, Python
 			\end{highlights}
 		\end{onecolentry}
@@ -163,7 +167,7 @@
 				\item A multi-language, interoperable, peer-to-peer network framework
 				\item Implemented several network types, including a mesh network \& two types of distributed hash table
 				\item Full implementation was done in Python, JavaScript. Message serialization demonstrated in C, C+\!+, Java, \& SmallTalk
-				\item Tools Used: Makefile, Python, JavaScript, WebPack, Node.JS, C, C+\!+, Java, SmallTalk
+				\item Tools Used: Makefile, Python, PyTest, JavaScript, Babel, Mocha, WebPack, Node.JS, C, C+\!+, Java, SmallTalk
 			\end{highlights}
 		\end{onecolentry}
 	\end{samepage}
@@ -189,17 +193,38 @@
 
 	\begin{samepage}
 		\begin{twocolentry}
+			{\hspace{-7 cm} \href{https://github.com/LivInTheLookingGlass/ManifoldMarketManager}{\mbox{github.com/LivInTheLookingGlass/ManifoldMarketManager}} } \textbf{ManifoldMarketManager}
+		\end{twocolentry}
+	
+		\begin{onecolentry}
+			\begin{highlights}
+				\item Manifold Markets is a play-money betting site about real-world events
+				\item Before they deployed a new API, this bot would make and manage markets
+				\item It implemented a large suite of rules, including logical combinations of other rules, or artificially leveraged odds
+				\item It could also query a human administrator for a resolution over Telegram
+				\item Required me to implement hooks for all of the relevant API calls
+				\item Tools Used: Python, REST API, Telegram, SQLite, PyTest
+			\end{highlights}
+		\end{onecolentry}
+	\end{samepage}
+
+	\vspace{0.2 cm}
+
+	\begin{samepage}
+		\begin{twocolentry}
 			{\hspace{-3 cm} \href{https://openstreetmap.org/LivInTheLookingGlass}{\mbox{openstreetmap.org/LivInTheLookingGlass}} } \textbf{OpenStreetMap Contributions}
 		\end{twocolentry}
 	
 		\begin{onecolentry}
 			\begin{highlights}
-				\item OpenStreetMap is an open geographic database, like WikiPedia for maps
+				\item OpenStreetMap is an open geographic database, like Wikipedia for maps
 				\item It is used frequently by emergency services in disasters
 				\item I organized two public map-a-thons to work in the aftermath of two such global disasters
 			\end{highlights}
 		\end{onecolentry}
 	\end{samepage}
+
+	\vspace{0.6 cm}
 
 	\section{Technologies}
 
@@ -209,6 +234,6 @@
 	\end{onecolentry}
 
 	\begin{onecolentry}
-		\textbf{Technologies:} Cypress, .NET, Makefile, CI/CD, Github Actions
+		\textbf{Technologies:} CI/CD, Cypress, Github Actions, Makefile, Mocha, Moq, .NET, PyTest, UnitTest
 	\end{onecolentry}
 \end{document}
