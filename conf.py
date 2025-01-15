@@ -23,6 +23,8 @@ rst_prolog = """
 
     <a rel="me" href="https://tech.lgbt/@LivInTheLookingGlass" role="none"
      style="display: none; visibility: hidden; pointer-events: none; animation: none; transition: none"></a>
+    <script data-goatcounter="https://livinthelookingglass.goatcounter.com/count"
+     async src="//gc.zgo.at/count.js"></script>
 
 .. |orcid-logo| image:: /_static/icons/ORCID-iD_icon_vector.svg
     :alt: ORCiD logo
