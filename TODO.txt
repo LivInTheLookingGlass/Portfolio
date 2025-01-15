@@ -1,0 +1,19 @@
+- Add testimonials
+  - Ben Sanchez
+  - some professors
+  - potentially other coworkers
+- check
+  - google search console
+  - bing webmaster
+  - ahrefs wemaster
+- add summaries to projects, potentially with following format:
+  > <project name>: <brief description>
+  >   Overview: <sentence or two>
+  >   Key Features: <bulleted list>
+  >   Role: <brief description>
+  >   Outcomes: <bulleted list>
+- produce more resume versions
+- produce some cover letter templates
+- investigate shibuya theme
+- add images, gifs to projects
+- find some sort of analytics that's more privacy-friendly than google
