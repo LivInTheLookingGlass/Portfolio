@@ -26,36 +26,26 @@ rst_prolog = """
 
 .. |orcid-logo| image:: /_static/icons/ORCID-iD_icon_vector.svg
     :alt: ORCiD logo
-    :height: 16em
-    :width: 16em
     :class: logo
     :target: https://orcid.org/0009-0004-2296-7033
 
 .. |linkedin-logo| image:: /_static/icons/In-Blue-128@2x.png
     :alt: LinkedIn logo
-    :height: 1em
-    :width: 1em
     :class: logo
     :target: https://www.linkedin.com/in/olivia-kay-appleton
 
 .. |github-logo| image:: /_static/icons/github-mark.svg
     :alt: GitHub logo
-    :height: 16em
-    :width: 16em
     :class: logo
     :target: https://github.com/LivInTheLookingGlass
 
 .. |gitlab-logo| image:: /_static/icons/gitlab-logo-500.svg
     :alt: GitLab logo
-    :height: 30em
-    :width: 30em
     :class: logo gitlab-logo
     :target: https://gitlab.com/LivInTheLookingGlass
 
 .. |tmw-logo| image:: /_static/icons/tmw-center.jpg
     :alt: TMW Center logo
-    :height: 1.05em
-    :width: 1.05em
     :class: logo
     :target: https://tmwcenter.uchicago.edu/our-team/olivia-1/
 
