@@ -23,6 +23,42 @@ rst_prolog = """
 
     <a rel="me" href="https://tech.lgbt/@LivInTheLookingGlass" role="none"
      style="display: none; visibility: hidden; pointer-events: none; animation: none; transition: none"></a>
+
+.. |orcid-logo| image:: /_static/icons/ORCID-iD_icon_vector.svg
+    :alt: ORCiD logo
+    :height: 16em
+    :width: 16em
+    :class: logo
+    :target: https://orcid.org/0009-0004-2296-7033
+
+.. |linkedin-logo| image:: /_static/icons/In-Blue-128@2x.png
+    :alt: LinkedIn logo
+    :height: 1em
+    :width: 1em
+    :class: logo
+    :target: https://www.linkedin.com/in/olivia-kay-appleton
+
+.. |github-logo| image:: /_static/icons/github-mark.svg
+    :alt: GitHub logo
+    :height: 16em
+    :width: 16em
+    :class: logo
+    :target: https://github.com/LivInTheLookingGlass
+
+.. |gitlab-logo| image:: /_static/icons/gitlab-logo-500.svg
+    :alt: GitLab logo
+    :height: 30em
+    :width: 30em
+    :class: logo gitlab-logo
+    :target: https://gitlab.com/LivInTheLookingGlass
+
+.. |tmw-logo| image:: /_static/icons/tmw-center.jpg
+    :alt: TMW Center logo
+    :height: 1.05em
+    :width: 1.05em
+    :class: logo
+    :target: https://tmwcenter.uchicago.edu/our-team/olivia-1/
+
 """
 
 # -- General configuration ---------------------------------------------------
@@ -30,9 +66,11 @@ rst_prolog = """
 
 extensions = [
     'sphinx.ext.duration',
+    'sphinx.ext.extlinks',
     'sphinx.ext.githubpages',
     'sphinx_tags',
     'sphinxcontrib.mermaid',
+    'sphinx_sitemap',
 ]
 
 templates_path = ['_templates']
@@ -47,6 +85,15 @@ html_css_files = [
     'custom.css',
 ]
 html_favicon = 'favicon.png'
+html_baseurl = 'https://oliviaappleton.com'
+
+# -- Options for external link roles -----------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/extensions/extlinks.html
+
+extlinks = {
+    'github': ('https://github.com/%s', '|github-logo| %s'),
+    'gitlab': ('https://gitlab.com/%s', '|gitlab-logo| %s'),
+}
 
 # -- Options for sphinx-tags extension ---------------------------------------
 # https://sphinx-tags.readthedocs.io/en/latest/configuration.html

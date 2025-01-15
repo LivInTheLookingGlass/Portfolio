@@ -9,3 +9,15 @@
 .rst-content .toctree-wrapper ul li ul {
    margin-top: 0;
 }
+
+.logo {
+   vertical-align: middle;
+   display: inline-block;
+   margin-top: -0.24em;
+   margin-bottom: -0.12em;
+}
+
+.gitlab-logo {
+   margin-left: -0.4em;
+   margin-right: -0.45em;
+}
