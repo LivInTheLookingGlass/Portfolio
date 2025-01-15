@@ -20,6 +20,6 @@
 }
 
 .gitlab-logo {
-   margin-left: -0.4em;
-   margin-right: -0.45em;
+   height: 1.15em !important;
+   width: 1.15em !important;
 }
