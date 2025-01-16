@@ -18,3 +18,7 @@ Full Resume
 ------------
 
 .. include:: work.rst
+
+------------
+
+.. include:: testimonials.rst
