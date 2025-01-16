@@ -1,8 +1,8 @@
 Testimonials
 ============
 
-Ben Sanchez (Intel, Product Development Engineer)
-+++++++++++++++++++++++++++++++++++++++++++++++++
+`Ben Sanchez <https://www.linkedin.com/in/ben-sanchez-6083725/>`__ (Intel, Product Development Engineer)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
   She came to me with a reputation as an expert coder with excellent attention to detail. [...] Shortly after
   Olivia was assigned to work with me, I was assigned to a project [that] was very challenging

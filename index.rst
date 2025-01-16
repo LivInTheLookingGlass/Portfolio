@@ -7,11 +7,10 @@ Olivia Appleton-Crocker's Portfolio
 
 .. include:: linktree.rst
 
-------------
-
 .. toctree::
     :caption: Contents
     :maxdepth: 3
+    :class: do-not-display
 
     about
     linktree
@@ -22,6 +21,7 @@ Olivia Appleton-Crocker's Portfolio
 
 .. toctree::
     :maxdepth: 1
+    :class: do-not-display
 
     everything
     _tags/tagsindex

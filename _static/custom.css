@@ -24,6 +24,6 @@
    width: 1.15em !important;
 }
 
-.toctree-wrapper {
+.do-not-display {
    display: none;
 }
