@@ -1,5 +1,5 @@
 Python EventEmitter (pyee)
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+++++++++++++++++++++++++++
 
 This library contains an implementation of the `EventEmitter <https://nodejs.org/en/learn/asynchronous-work/the-nodejs-event-emitter>`__ class from JavaScript. I provided several contributions to this, namely:
 

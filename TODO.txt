@@ -1,5 +1,8 @@
+- remove stuff that isn't dissertation level or usefully open source
+- have the landing page contain the stuff in the one page resume
+- strongly consider not making 2 page versions
 - Add testimonials
-  - Ben Sanchez
+  - Ben Sanchez (needs editing)
   - some professors
   - potentially other coworkers
 - check
@@ -12,8 +15,7 @@
   >   Key Features: <bulleted list>
   >   Role: <brief description>
   >   Outcomes: <bulleted list>
-- produce more resume versions
-- produce some cover letter templates
+- produce one more resume version
+- produce two cover letter templates
 - investigate shibuya theme
 - add images, gifs to projects
-- find some sort of analytics that's more privacy-friendly than google

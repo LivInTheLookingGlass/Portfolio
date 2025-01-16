@@ -1,5 +1,5 @@
 Base58 Contributions
-~~~~~~~~~~~~~~~~~~~~
+++++++++++++++++++++
 
 The base58 library implements an encoding scheme used in a large number of cryptocurrency applications. This scheme is useful because, unlike base64, it is significantly more human readable due to exclusion of look-alike characters. It has recently seen greater adoption outside of cryptocurrency spaces. I made several contributions to this library, namely:
 

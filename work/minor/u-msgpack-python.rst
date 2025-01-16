@@ -1,5 +1,5 @@
 u-msgpack-python Contributions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+++++++++++++++++++++++++++++++
 
 This serialization library implements the `MessagePack <https://en.wikipedia.org/wiki/MessagePack>`__ protocol, which provides binary encoding of data in a JSON-like structure, while minimizing data size at time of transmission. I contributed several patches to this library, including:
 

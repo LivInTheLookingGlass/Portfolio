@@ -1,5 +1,5 @@
 Overpassify
-~~~~~~~~~~~
++++++++++++
 
 `Source code <https://github.com/LivInTheLookingGlass/overpassify>`__
 

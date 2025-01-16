@@ -1,4 +1,10 @@
 {
+  "properties": {
+    "http://schema.org/name": "Olivia Appleton-Crocker",
+    "http://schema.org/gender": "female",
+    "http://schema.org/pronouns": "she/her",
+    "http://schema.org/timeZone": "America/Chicago"
+  },
   "subject": "acct:liv@oliviaappleton.com",
   "aliases": [
     "https://tech.lgbt/@LivInTheLookongGlass",
@@ -11,6 +17,10 @@
       "href": "https://oliviaappleton.com/about.html"
     },
     {
+      "rel": "http://webfinger.net/rel/activitypub",
+      "href": "https://tech.lgbt/users/LivInTheLookingGlass"
+    },
+    {
       "rel": "self",
       "type": "application/activity+json",
       "href": "https://tech.lgbt/users/LivInTheLookingGlass"
@@ -18,6 +28,22 @@
     {
       "rel": "http://ostatus.org/schema/1.0/subscribe",
       "template": "https://tech.lgbt/authorize_interaction?uri={uri}"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "href": "https://orcid.org/0009-0004-2296-7033"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "href": "https://github.com/LivInTheLookingGlass"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "href": "https://gitlab.com/LivInTheLookingGlass"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "href": "https://www.linkedin.com/in/olivia-kay-appleton"
     }
   ]
 }

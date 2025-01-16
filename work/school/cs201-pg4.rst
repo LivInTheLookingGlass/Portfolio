@@ -1,6 +1,0 @@
-CS 201 Program 4
-~~~~~~~~~~~~~~~~
-
-`Source code <https://github.com/LivInTheLookingGlass/CS201-PG4>`__
-
-.. tags:: CPlusPlus, Data Structures, School Project

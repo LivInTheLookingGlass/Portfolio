@@ -9,11 +9,11 @@ Full Resume
 
 ------------
 
-.. include:: education.rst
+.. include:: jobs.rst
 
 ------------
 
-.. include:: jobs.rst
+.. include:: education.rst
 
 ------------
 

@@ -11,21 +11,17 @@ Olivia Appleton-Crocker's Portfolio
 
 .. toctree::
     :caption: Contents
-    :maxdepth: 1
-
-    everything
-
-.. toctree::
     :maxdepth: 3
 
     about
     linktree
     pdfs
-    education
     jobs
+    education
     work
 
 .. toctree::
     :maxdepth: 1
 
+    everything
     _tags/tagsindex

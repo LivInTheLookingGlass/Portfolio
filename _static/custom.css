@@ -23,3 +23,7 @@
    height: 1.15em !important;
    width: 1.15em !important;
 }
+
+.toctree-wrapper {
+   display: none;
+}

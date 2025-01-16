@@ -1,9 +1,6 @@
 Major Works
 ===========
 
-Projects
-++++++++
-
 .. include:: work/major/euler.rst
 
 .. include:: work/major/manifold.rst
@@ -32,9 +29,6 @@ Papers
 Minor Works
 ===========
 
-Projects
-++++++++
-
 .. include:: work/minor/cpython.rst
 
 .. include:: work/minor/base58.rst
@@ -60,31 +54,6 @@ Projects
 School Works
 ============
 
-Projects
-++++++++
-
 .. include:: work/school/cmse-822-final-project.rst
 
 .. include:: work/school/cmse-812-project.rst
-
-.. include:: work/school/cs426-shell.rst
-
-.. include:: work/school/cs201-pg1.rst
-
-.. include:: work/school/cs201-pg2.rst
-
-.. include:: work/school/cs201-pg3.rst
-
-.. include:: work/school/cs201-pg4.rst
-
-.. include:: work/school/cs201-pg5.rst
-
-.. include:: work/school/cs201-pg6.rst
-
-.. include:: work/school/cs222-pg1.rst
-
-.. include:: work/school/cs222-pg2.rst
-
-.. include:: work/school/cs222-pg3.rst
-
-.. include:: work/school/tree.rst

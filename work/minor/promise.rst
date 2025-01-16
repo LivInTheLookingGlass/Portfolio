@@ -1,5 +1,5 @@
 Python Promises
-~~~~~~~~~~~~~~~
++++++++++++++++
 
 This library implements the `Promise <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise>`__ API from JavaScript in Python. It now supports many concurrency models, but at the time of my contributions it was orignally a serial library. I:
 
