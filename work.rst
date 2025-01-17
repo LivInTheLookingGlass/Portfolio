@@ -7,6 +7,8 @@ Major Works
 
 .. include:: work/major/overpassify.rst
 
+.. include:: work/major/openstreetmap.rst
+
 .. include:: work/major/p2p-project.rst
 
 .. include:: work/major/visualizer.rst
