@@ -1,0 +1,12 @@
+{% extends "!404.html" %}
+
+{% block content %}
+<script>
+    if (window.location.pathname.startsWith('/euler/')) {
+        window.location.replace('https://subdomain.example.com' + window.location.pathname.substring(6));
+    }
+</script>
+
+{{ super() }}
+{% endblock %}
+
