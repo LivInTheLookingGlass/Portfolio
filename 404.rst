@@ -10,7 +10,7 @@ Page Not Found
       for (var name of subdomains) {
         if (window.location.pathname.startsWith('/' + name + '/')) {
           var target = 'https://' + name + '.oliviaappleton.com/' + window.location.pathname.substring(name.length + 2);
-          if (target.endswith('.html/')) {
+          if (target.endsWith('.html/')) {
             target = target.substring(0, target.length - 1);
           }
           window.location.replace(target);
