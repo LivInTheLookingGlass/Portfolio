@@ -3,4 +3,3 @@ sphinx-rtd-theme
 sphinx-tags
 sphinxcontrib-mermaid
 sphinx-sitemap
-sphinx-reredirects
