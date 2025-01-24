@@ -74,6 +74,7 @@ extensions = [
     'sphinx_tags',
     'sphinxcontrib.mermaid',
     'sphinx_sitemap',
+    'sphinx_reredirects',
 ]
 
 templates_path = ['_templates']
@@ -103,6 +104,13 @@ extlinks = {
 
 tags_create_tags = True
 tags_page_title = 'Tags'
+
+# -- Options for HTML redirects -------------------------------------------------
+# https://documatt.com/sphinx-reredirects/usage.html
+
+redirects = {
+    'euler/*': 'https://euler.oliviaappleton.com/$source',
+}
 
 # -- Options extend the bulid process ----------------------------------------
 # https://www.sphinx-doc.org/en/master/development/tutorials/extending_build.html
