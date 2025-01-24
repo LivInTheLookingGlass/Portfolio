@@ -5,8 +5,11 @@ Page Not Found
 
 .. raw:: html
 
-  <script>
-    if (window.location.pathname.startsWith('/euler/')) {
-        window.location.replace('https://subdomain.example.com' + window.location.pathname.substring(6));
-    }
-  </script>
+    <script>
+        var subdomains = ['euler'];
+        for (name of subdomains) {
+            if (window.location.pathname.startsWith('/' + name + '/')) {
+                window.location.replace('https://' + name + '.oliviaappleton.com' + window.location.pathname.substring(name.length + 2));
+            }
+        }
+    </script>
