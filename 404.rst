@@ -9,7 +9,11 @@ Page Not Found
         var subdomains = ['euler'];
         for (name of subdomains) {
             if (window.location.pathname.startsWith('/' + name + '/')) {
-                window.location.replace('https://' + name + '.oliviaappleton.com' + window.location.pathname.substring(name.length + 2));
+                var target = 'https://' + name + '.oliviaappleton.com/' + window.location.pathname.substring(name.length + 2);
+                if (target.endswith('.html/')) {
+                    target = target.substring(0, target.length - 1);
+                }
+                window.location.replace(target);
             }
         }
     </script>
