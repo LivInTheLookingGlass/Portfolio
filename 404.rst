@@ -6,14 +6,14 @@ Page Not Found
 .. raw:: html
 
     <script>
-        var subdomains = ['euler'];
-        for (name of subdomains) {
-            if (window.location.pathname.startsWith('/' + name + '/')) {
-                var target = 'https://' + name + '.oliviaappleton.com/' + window.location.pathname.substring(name.length + 2);
-                if (target.endswith('.html/')) {
-                    target = target.substring(0, target.length - 1);
-                }
-                window.location.replace(target);
-            }
+      var subdomains = ['euler'];
+      for (var name of subdomains) {
+        if (window.location.pathname.startsWith('/' + name + '/')) {
+          var target = 'https://' + name + '.oliviaappleton.com/' + window.location.pathname.substring(name.length + 2);
+          if (target.endswith('.html/')) {
+            target = target.substring(0, target.length - 1);
+          }
+          window.location.replace(target);
         }
+      }
     </script>
