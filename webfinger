@@ -43,6 +43,10 @@
     },
     {
       "rel": "http://webfinger.net/rel/profile-page",
+      "href": "https://openstreetmap.org/user/LivInTheLookingGlass"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
       "href": "https://www.linkedin.com/in/olivia-kay-appleton"
     }
   ]
