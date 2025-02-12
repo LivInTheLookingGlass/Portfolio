@@ -6,6 +6,7 @@ Link Tree
 - |github-logo| `GitHub <https://github.com/LivInTheLookingGlass>`_
 - |gitlab-logo| `GitLab <https://gitlab.com/LivInTheLookingGlass>`_
 - |tmw-logo| `Staff Page <https://tmwcenter.uchicago.edu/our-team/olivia-1/>`_
+- |osm-logo| `OpenStreetMap <https://www.openstreetmap.org/user/LivInTheLookingGlass>`__
 
 .. To consider:
 .. - Mastodon

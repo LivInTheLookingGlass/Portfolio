@@ -51,6 +51,11 @@ rst_prolog = """
     :class: logo
     :target: https://tmwcenter.uchicago.edu/our-team/olivia-1/
 
+.. |osm-logo| image:: /_static/icons/osm-logo-2011.svg
+    :alt: OpenStreetMap logo
+    :class: logo
+    :target: https://www.openstreetmap.org/user/LivInTheLookingGlass
+
 """
 
 # -- General configuration ---------------------------------------------------

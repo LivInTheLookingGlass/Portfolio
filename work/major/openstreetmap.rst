@@ -22,5 +22,7 @@ You can see some statistics on my contributions at the following links:
 - `My OpenStreetMap Profile <https://www.openstreetmap.org/user/LivInTheLookingGlass>`__
 - `My Contribution Heatmap <https://yosmhm.neis-one.org/?LivInTheLookingGlass>`__
 - `Statistics Page <https://hdyc.neis-one.org/?LivInTheLookingGlass>`__ (requires OpenStreetMap log in)
+- `Nodes edited by me in my hometown <https://overpass-turbo.eu/s/1YDJ>`__  (not mobile friendly)
+- `Chicago Sidewalk Project <https://tasks.openstreetmap.us/projects/736/>`__
 
 .. tags:: OpenStreetMap, Volunteer, Organizing, OverpassQL, GIS
