@@ -68,7 +68,6 @@ extensions = [
     'sphinx_tags',
     'sphinxcontrib.mermaid',
     'sphinx_sitemap',
-    'sphinx_favicon',
 ]
 
 templates_path = ['_templates']
@@ -78,19 +77,17 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'shibuya'
-html_title = 'Olivia Appleton-Crocker\'s Portfolio'
+html_title = "Olivia Appleton-Crocker's Portfolio"
 html_static_path = ['_static']
 html_css_files = [
     'custom.css',
 ]
-favicons = [
-    {'href': 'favicon.svg'},
-    {'href': 'favicon.png'},
-]
-html_logo = "favicon.svg"
+html_favicon = '_static/favicon.png'
 html_baseurl = 'https://oliviaappleton.com'
 html_theme_options = {
-  'accent_color': 'violet',
+    'accent_color': 'violet',
+    'light_logo': '_static/favicon-light.svg',
+    'dark_logo': '_static/favicon-dark.svg',
 }
 
 # -- Options for external link roles -----------------------------------------
