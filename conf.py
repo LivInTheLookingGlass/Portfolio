@@ -77,6 +77,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'shibuya'
+html_title = 'Olivia Appleton-Crocker\'s Portfolio'
 html_static_path = ['_static']
 html_css_files = [
     'custom.css',
