@@ -68,6 +68,7 @@ extensions = [
     'sphinx_tags',
     'sphinxcontrib.mermaid',
     'sphinx_sitemap',
+    'sphinx_favicon',
 ]
 
 templates_path = ['_templates']
