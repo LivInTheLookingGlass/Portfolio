@@ -17,5 +17,4 @@
   >   Outcomes: <bulleted list>
 - produce one more resume version
 - produce two cover letter templates
-- investigate shibuya theme
 - add images, gifs to projects

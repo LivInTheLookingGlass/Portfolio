@@ -1,5 +1,7 @@
+shibuya
 sphinx>=3.1,<8
+sphinx-favicon
 sphinx-rtd-theme
 sphinx-tags
-sphinxcontrib-mermaid
 sphinx-sitemap
+sphinxcontrib-mermaid

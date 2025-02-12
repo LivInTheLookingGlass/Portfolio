@@ -15,16 +15,16 @@ from sphinx.application import Sphinx
 project = 'Portfolio'
 copyright = '2025, Olivia Appleton-Crocker'
 author = 'Olivia Appleton-Crocker'
-rst_prolog = """
+rst_prolog = '''
 .. meta::
     :fediverse:creator: @LivInTheLookingGlass@tech.lgbt
 
 .. raw:: html
 
-    <a rel="me" href="https://tech.lgbt/@LivInTheLookingGlass" role="none"
-     style="display: none; visibility: hidden; pointer-events: none; animation: none; transition: none"></a>
-    <script data-goatcounter="https://livinthelookingglass.goatcounter.com/count"
-     async src="//gc.zgo.at/count.js"></script>
+    <a rel='me' href='https://tech.lgbt/@LivInTheLookingGlass' role='none'
+     style='display: none; visibility: hidden; pointer-events: none; animation: none; transition: none'></a>
+    <script data-goatcounter='https://livinthelookingglass.goatcounter.com/count'
+     async src='//gc.zgo.at/count.js'></script>
 
 .. |orcid-logo| image:: /_static/icons/ORCID-iD_icon_vector.svg
     :alt: ORCiD logo
@@ -56,7 +56,7 @@ rst_prolog = """
     :class: logo
     :target: https://www.openstreetmap.org/user/LivInTheLookingGlass
 
-"""
+'''
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -76,13 +76,20 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'shibuya'
 html_static_path = ['_static']
 html_css_files = [
     'custom.css',
 ]
-html_favicon = 'favicon.png'
+favicons = [
+    {'href': 'favicon.svg'},
+    {'href': 'favicon.png'},
+]
+html_logo = "favicon.svg"
 html_baseurl = 'https://oliviaappleton.com'
+html_theme_options = {
+  'accent_color': 'violet',
+}
 
 # -- Options for external link roles -----------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/extlinks.html
