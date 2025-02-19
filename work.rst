@@ -9,6 +9,8 @@ Major Works
 
 .. include:: work/major/openstreetmap.rst
 
+.. include:: work/major/sphinx-fediverse.rst
+
 .. include:: work/major/p2p-project.rst
 
 .. include:: work/major/visualizer.rst
