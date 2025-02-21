@@ -7,8 +7,8 @@
   },
   "subject": "acct:liv@oliviaappleton.com",
   "aliases": [
-    "https://tech.lgbt/@LivInTheLookongGlass",
-    "https://tech.lgbt/users/LivInTheLookingGlass"
+    "https://transfem.social/@LivInTheLookingGlass",
+    "https://transfem.social/users/a4h67prrvu2v00xt"
   ],
   "links": [
     {
@@ -18,16 +18,16 @@
     },
     {
       "rel": "http://webfinger.net/rel/activitypub",
-      "href": "https://tech.lgbt/users/LivInTheLookingGlass"
+      "href": "https://transfem.social/users/a4h67prrvu2v00xt"
     },
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "https://tech.lgbt/users/LivInTheLookingGlass"
+      "href": "https://transfem.social/users/a4h67prrvu2v00xt"
     },
     {
       "rel": "http://ostatus.org/schema/1.0/subscribe",
-      "template": "https://tech.lgbt/authorize_interaction?uri={uri}"
+      "template": "https://transfem.social/authorize_interaction?uri={uri}"
     },
     {
       "rel": "http://webfinger.net/rel/profile-page",
