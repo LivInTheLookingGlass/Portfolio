@@ -7,8 +7,8 @@
   },
   "subject": "acct:liv@oliviaappleton.com",
   "aliases": [
-    "https://transfem.social/@LivInTheLookingGlass",
-    "https://transfem.social/users/a4h67prrvu2v00xt"
+    "https://oliviaappleton.com/@liv",
+    "https://oliviaappleton.com/user/liv"
   ],
   "links": [
     {
@@ -18,12 +18,12 @@
     },
     {
       "rel": "http://webfinger.net/rel/activitypub",
-      "href": "https://transfem.social/users/a4h67prrvu2v00xt"
+      "href": "https://oliviaappleton.com/user/liv"
     },
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "https://transfem.social/users/a4h67prrvu2v00xt"
+      "href": "https://oliviaappleton.com/user/liv"
     },
     {
       "rel": "http://ostatus.org/schema/1.0/subscribe",

@@ -114,9 +114,10 @@ def build_finished(app: Sphinx, exception: Optional[Exception]):
         dest_path = Path(app.outdir, '.well-known', 'webfinger')
         dest_path.parent.mkdir(parents=True, exist_ok=True)
         copy(source, dest_path)
-        source = Path(__file__).parent.joinpath('robots.txt')
-        dest_path = Path(app.outdir, 'robots.txt')
-        copy(source, dest_path)
+        for name in ('robots.txt', '_redirects'):
+            source = Path(__file__).parent.joinpath(name)
+            dest_path = Path(app.outdir, name)
+            copy(source, dest_path)
 
 
 def setup(app):
