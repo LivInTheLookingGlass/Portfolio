@@ -1,26 +1,33 @@
 Testimonials
 ============
 
+`Ajay Sailopal <https://www.linkedin.com/in/ajay-sailopal-2176661b4/>`__ (TMW Center, Software Engineer)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  Olivia is an extremely kind and thoughtful colleague. I consider myself fortunate to have met such wonderful
+  colleagues, but what truly sets her apart is her passion for tech. Not only is she technically extremely strong, but
+  she keeps herself extremely up to date with advances in software and so on. She has been invaluable to our team with
+  her skills in automation, testing, and has greatly increased the average quality of code in our tech stack. She has
+  an extremely strong understanding of how computers work and has a strong body of work, both in her professional
+  career and open source contributions, both of which I can vouch for. I would highly recommend hiring Olivia as a
+  software engineer!
+
 `Ben Sanchez <https://www.linkedin.com/in/ben-sanchez-6083725/>`__ (Intel, Product Development Engineer)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-  She came to me with a reputation as an expert coder with excellent attention to detail. [...] Shortly after
-  Olivia was assigned to work with me, I was assigned to a project [that] was very challenging
-  & required a great deal of detailed work in previously uncharted technical territory. Olivia was tasked
-  with the analysis of existing specifications and our initial implementations of those, as well as changes
-  made to both as the work progressed. Throughout the project Olivia and I worked hand in hand to
-  complete the architecture, to document that, to oversee the implementation of that architecture in our
-  products, and to define the test cases required to validate the feature as implemented. Olivia was also
-  instrumental in the execution of those tests, the collection of data from that execution, and the analysis
-  of the results to determine if tests had passed or failed. In the case of failing tests Olivia helped to
-  determine the root cause of the failure, to work with firmware and other engineering teams to
-  implement fixes to the product implementation, and to re-test the final implementation to be sure it
-  met specified criteria.
+  I worked with Olivia for about two years at Intel, where she started as an undergraduate intern in the Non-Volatile
+  Memory System Division. Known for her coding expertise and attention to detail, Olivia excelled in previous
+  internships. My role involved debugging storage protocol issues in SSDs for the Client market.
+  
+  Olivia joined me on a challenging project to validate a new feature before it was fully architected. She analyzed
+  existing specifications and our initial implementations, documenting changes and overseeing the implementation. She
+  was instrumental in defining and executing test cases, collecting data, and analyzing results. Olivia determined the
+  root causes of failing tests and collaborated with firmware and engineering teams to implement fixes.
+  
+  Olivia demonstrated intelligence and aptitude beyond that of an average intern, effectively following instructions
+  and working independently. After her internship, she accepted a full-time position and continued to impress with her
+  performance, surpassing some experienced engineers.
+  
+  In my opinion, Olivia will be an outstanding member of any team. Please contact me with any questions about our work
+  together.
 
-  Throughout that work Olivia showed her intelligence and aptitude to the diverse tasks at hand. I would
-  not have expected an average intern to have performed so well in this environment. I found Olivia to be
-  quite capable of following instructions, as well as independently working to overcome issues during this
-  project, and later on after her internship. After her internship ended Olivia was offered, and accepted, a
-  full-time position as a peer of mine. She and I continued to work together for the better part of a year
-  until I moved on to a new position. Throughout that time, I continued to be impressed with Olivia's
-  ability given her relative lack of experience. She outperforms some experienced engineers I work with.
