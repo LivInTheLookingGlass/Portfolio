@@ -5,7 +5,7 @@ Graduate School -- Michigan State University
 | East Lansing, MI, USA
 | January 2020 - December 2022
 
-- Focus in Distribued Systems
+- Focus in Distributed Systems
 - 3.85 GPA
 - Entered with GRE scores of
   
