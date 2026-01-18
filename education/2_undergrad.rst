@@ -2,7 +2,7 @@ Undergrad -- Northern Michigan University
 +++++++++++++++++++++++++++++++++++++++++
 
 | Graduated with Bachelor's in Computer Science
-| September 2013 - December 2018 (Magna cum laude)
+| September 2013 - December 2018 (Magna cum laude, concurrent with Intel and High School)
 
 - Minor in Mathematics
 - Focus in Computer Networking
