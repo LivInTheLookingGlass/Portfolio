@@ -13,7 +13,7 @@ from sphinx.application import Sphinx
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Portfolio'
-copyright = '2025, Olivia Appleton-Crocker'
+copyright = '© 2025-2026, Olivia Appleton-Crocker'
 author = 'Olivia Appleton-Crocker'
 rst_prolog = '''
 .. meta::
@@ -46,15 +46,20 @@ rst_prolog = '''
     :class: logo gitlab-logo
     :target: https://gitlab.com/LivInTheLookingGlass
 
-.. |tmw-logo| image:: /_static/icons/tmw-center.jpg
-    :alt: TMW Center logo
+.. |xmpp-logo| image:: https://xmpp.link/assets/xmpp.svg
+    :alt: XMPP logo
     :class: logo
-    :target: https://tmwcenter.uchicago.edu/our-team/olivia-1/
+    :target: https://xmpp.link/#liv%40im.futurelab.social%3Fomemo-sid-1652058803%3D7fb4f61406dd3b57e32ecdf8bcf30c02cb8e095cde1e9e41c03a6ab0cf788726
 
 .. |osm-logo| image:: /_static/icons/osm-logo-2011.svg
     :alt: OpenStreetMap logo
     :class: logo
     :target: https://www.openstreetmap.org/user/LivInTheLookingGlass
+
+.. |blog-logo| image:: /_static/favicon-light.svg
+    :alt: Blog logo
+    :class: logo
+    :target: https://blog.oliviaappleton.com
 
 '''
 
